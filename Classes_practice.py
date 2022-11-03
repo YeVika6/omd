@@ -74,7 +74,7 @@ def idf_transform_2(matr: List[List[int]]) -> List[float]:
     return result
 
 
-# Task 2.1 (как коротка записать цикл: comprehension и lambda)
+# Task 2.1 (как короткo записать цикл: comprehension и lambda)
 def count_pos(matr: List[int]) -> int:
     counter = 0
 
